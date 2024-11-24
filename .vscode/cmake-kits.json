@@ -1,0 +1,8 @@
+[
+  {
+    "name": "GCC (HPM SDK)",
+    "environmentVariables": {
+      "HPM_SDK_BASE": "/PATH/TO/YOUR/hpm_sdk"
+    }
+  }
+]
